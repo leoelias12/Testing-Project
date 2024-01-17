@@ -1,1 +1,3 @@
-print('This is the main code for this test')
+import text_func
+
+text_func.text('Calculator to sum 2 numbers')
